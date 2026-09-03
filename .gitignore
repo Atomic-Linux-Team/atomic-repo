@@ -1,6 +1,0 @@
-# Ignorar los paquetes binarios y la base de datos dentro del historial de Git
-*.pkg.tar.zst
-*.db
-*.db.tar.gz
-*.files
-*.files.tar.gz
